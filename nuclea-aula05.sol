@@ -7,9 +7,15 @@ This work is licensed under a Creative Commons Attribution 4.0 International Lic
 * "Commitar" fonte do contrato de aluguel no seu repositorio de fontes no Github com o nome de nuclea-aula05.sol
 * Fazer deploy do contrato de aluguel na rede de teste Sepolia
 * Realizar 2 pagamentos de aluguel
+0xdbf78169019792dbd248f1546df5a9b5f78599e242e32889d3ba5f3862cbeddd
+0x0a7059df560a973a993c53c27eded1cfa0773375af55ebbb61732e4bb46c53cb
 * Reajustar o aluguel em 7%
+ok
+
 * Fazer dois pagamentos com o aluguel reajustado
-* Voltar no fonte do contrato no seu repositório e adicionar um comentário com o endereço dele, exemplo: // Endereço do contrato na rede Sepolia 0x5042c9195ba56f6e6eee08255228b1da940258cf
+-sem saldo 
+
+
 https://github.com/EdsonKamogawa/CursoBlockchain/edit/main/nuclea-aula05.sol
 */
 
